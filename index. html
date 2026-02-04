@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- SEO Meta Tags -->
-    <meta name="description" content="Kofi Adu Serbeh - Student Web Developer Portfolio, Projects, Skills, Contact">
-    <meta name="keywords" content="Kofi Adu Serbeh, Web Developer, Portfolio, HTML, CSS, JavaScript">
+    <meta name="description" content="Kofi Adu Serbeh - Student Web Developer Portfolio, Projects, Skills, Contact, Resume">
+    <meta name="keywords" content="Kofi Adu Serbeh, Web Developer, Portfolio, HTML, CSS, JavaScript, Resume">
     <meta name="author" content="Kofi Adu Serbeh">
     
     <title>Kofi Adu Serbeh | Student Web Developer</title>
@@ -27,7 +27,7 @@
     <section id="about" class="section">
         <div class="container">
             <h2>About</h2>
-            <p>I am a student learning web development and working to improve my skills every day. This website will grow as I grow, documenting my journey from beginner to professional developer.</p>
+            <p>I am a student learning web development and improving my skills every day. This website will grow as I grow, documenting my journey from beginner to professional developer.</p>
         </div>
     </section>
 
@@ -60,6 +60,17 @@
         </div>
     </section>
 
+    <!-- RESUME LINK SECTION -->
+    <section id="resume" class="section">
+        <div class="container">
+            <h2>Resume</h2>
+            <p>My resume will be available here in the future:</p>
+            <p class="coming-soon">
+                <a href="https://github.com/kofiserbeh21925-gif/past-resume" target="_blank">View Resume (Coming Soon)</a>
+            </p>
+        </div>
+    </section>
+
     <!-- CONTACT SECTION -->
     <section id="contact" class="section">
         <div class="container">
@@ -67,7 +78,7 @@
             <p>Feel free to reach out as I continue my web development journey.</p>
             <p class="email">
                 Email: <a href="mailto:kofiserbeh21925@gmail.com">kofiserbeh21925@gmail.com</a><br>
-                GitHub: <a href="https://github.com/kofiaduserbeh">github.com/kofiaduserbeh</a>
+                GitHub: <a href="https://github.com/kofiserbeh21925-gif">github.com/kofiserbeh21925-gif</a>
             </p>
         </div>
     </section>
