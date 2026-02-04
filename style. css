@@ -111,10 +111,9 @@ p {
 .coming-soon {
     color: #808080;
     font-style: italic;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
-/* CONTACT SECTION */
 .email a {
     color: #ff6b35;
     text-decoration: none;
@@ -125,7 +124,6 @@ p {
     text-decoration: underline;
 }
 
-/* FOOTER */
 footer {
     background-color: #0f0f0f;
     text-align: center;
@@ -136,38 +134,15 @@ footer {
 
 /* MOBILE RESPONSIVE */
 @media (max-width: 768px) {
-    .name {
-        font-size: 2.2rem;
-    }
-    
-    h2 {
-        font-size: 2rem;
-    }
-    
-    .section {
-        min-height: auto;
-        padding: 40px 0;
-    }
-    
-    .skills-list {
-        flex-direction: column;
-    }
-    
-    .skill-item {
-        text-align: center;
-    }
+    .name { font-size: 2.2rem; }
+    h2 { font-size: 2rem; }
+    .section { min-height: auto; padding: 40px 0; }
+    .skills-list { flex-direction: column; }
+    .skill-item { text-align: center; }
 }
 
 @media (max-width: 480px) {
-    .name {
-        font-size: 1.8rem;
-    }
-    
-    .title {
-        font-size: 1.2rem;
-    }
-    
-    h2 {
-        font-size: 1.6rem;
-    }
+    .name { font-size: 1.8rem; }
+    .title { font-size: 1.2rem; }
+    h2 { font-size: 1.6rem; }
 }
