@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Kofi Adu Serbeh - Student Web Developer Portfolio, Projects, Skills, Contact">
+    <meta name="keywords" content="Kofi Adu Serbeh, Web Developer, Portfolio, HTML, CSS, JavaScript">
+    <meta name="author" content="Kofi Adu Serbeh">
+    
+    <title>Kofi Adu Serbeh | Student Web Developer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <!-- HOME SECTION -->
+    <section id="home" class="section">
+        <div class="container">
+            <h1 class="name">Kofi Adu Serbeh</h1>
+            <p class="title">Student Web Developer</p>
+            <p class="tagline">Building my skills one project at a time</p>
+        </div>
+    </section>
+
+    <!-- ABOUT SECTION -->
+    <section id="about" class="section">
+        <div class="container">
+            <h2>About</h2>
+            <p>I am a student learning web development and working to improve my skills every day. This website will grow as I grow, documenting my journey from beginner to professional developer.</p>
+        </div>
+    </section>
+
+    <!-- SKILLS SECTION -->
+    <section id="skills" class="section">
+        <div class="container">
+            <h2>Skills</h2>
+            <div class="skills-list">
+                <div class="skill-item">HTML</div>
+                <div class="skill-item">CSS</div>
+                <div class="skill-item">Basic JavaScript</div>
+                <div class="skill-item">Git / GitHub</div>
+                <div class="skill-item">Responsive Design</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- PROJECTS SECTION -->
+    <section id="projects" class="section">
+        <div class="container">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>Project 1: Personal Portfolio</h3>
+                <p>This portfolio website — my first real project built from scratch.</p>
+            </div>
+            <div class="project">
+                <h3>Project 2: Coming Soon</h3>
+                <p class="coming-soon">More projects will be added here as I build them.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- CONTACT SECTION -->
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>Contact</h2>
+            <p>Feel free to reach out as I continue my web development journey.</p>
+            <p class="email">
+                Email: <a href="mailto:kofiserbeh21925@gmail.com">kofiserbeh21925@gmail.com</a><br>
+                GitHub: <a href="https://github.com/kofiaduserbeh">github.com/kofiaduserbeh</a>
+            </p>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>&copy; 2026 Kofi Adu Serbeh. Built with honesty and determination.</p>
+    </footer>
+
+</body>
+</html>
